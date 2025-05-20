@@ -39,7 +39,7 @@ To help you achieve this project, here are a few tips that should help you:
 
 - First, you'll have to make some preprocessings to clean the corpus (in particular, don't forget to handle stop words and to lemmatize the documents). For this step, you'll need `pandas` and `spacy`.
 
-- Then, you can to encode the texts with **TF-IDF transformation** (this can be done with scikit learn's `TFIDFVectorizer`)
+- Then, you can encode the texts with **TF-IDF transformation** (this can be done with scikit learn's `TFIDFVectorizer`)
 
 ### Part 1 : Groups of products with similar descriptions
 
