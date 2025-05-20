@@ -1,4 +1,3 @@
-# Unsuperviesed-ML--NorthFace-recommendation 
 
 Fictive project completed as part of my Data Science Fullstack training at Jedha (Paris). 
 
