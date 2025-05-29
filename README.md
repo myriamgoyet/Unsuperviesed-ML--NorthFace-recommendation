@@ -1,7 +1,5 @@
-
+# PROJECT NORTH FACE - RECOMMENDER SYSTEM TO BOOST ONLINE SALES
 Fictive project completed as part of my Data Science Fullstack training at Jedha (Paris). 
-
-# The North Face e-commerce : boosting online sales !
 
 ## Company's Description 📇
 
